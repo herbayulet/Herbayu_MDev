@@ -1,0 +1,15 @@
+Angka-angka yang melengkapi seri berikut adalah:
+1, 5, 4, 2, 7, 6, 3, 9, 8, ..., ...
+* Angka pertama adalah 1.
+* Angka kedua adalah 5, yang merupakan penambahan 4 dari angka pertama.
+* Angka ketiga adalah 4, yang merupakan pengurangan 1 dari angka kedua.
+* Angka keempat adalah 2, yang merupakan pengurangan 2 dari angka ketiga.
+* Angka kelima adalah 7, yang merupakan penambahan 5 dari angka keempat.
+* Angka keenam adalah 6, yang merupakan pengurangan 1 dari angka kelima.
+* Angka ketujuh adalah 3, yang merupakan pengurangan 3 dari angka keenam.
+* Angka kedelapan adalah 9, yang merupakan penambahan 6 dari angka ketujuh.
+* Angka kesembilan adalah 8, yang merupakan pengurangan 1 dari angka kedelapan.
+* Angka kesepuluh adalah 4, yang merupakan pengurangan 4 dari angka kesembilan.
+* Angka kesebelas adalah 12, yang merupakan penambahan 8 dari angka kesepuluh.
+
+jawaban nya adalah 4 dan 12
